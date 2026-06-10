@@ -1,16 +1,50 @@
 # Estrategia Voraz - Algoritmos Greedy
 
-Heydy Castillo Arocutipa 
+**Heydy Castillo Arocutipa**
+Curso: Análisis y diseño de algoritmos
 
-Curso: Analisis y diseño de algoritmos
-
+---
 
 ## Descripción
 
-Este proyecto contiene la implementación en Java de dos problemas clásicos resueltos mediante la estrategia de algoritmos voraces (Greedy):
-
-1. Mochila Fraccional (Fractional Knapsack)
+1. Mochila Fraccional 
 2. Cobertura de Antenas
 
-El objetivo es aplicar decisiones óptimas locales para construir una solución eficiente al problema.
+
+---
+
+## Cómo ejecutar
+
+1. Compilar el archivo Java:
+
+```
+javac nombredelarchivo.java
+```
+
+2. Ejecutar el programa:
+
+```
+java nombredearchivo
+```
+
+---
+
+## Archivos del proyecto
+
+* `mochila.java` → Implementación del problema de la mochila fraccional
+* `antenas.java` → Implementación del problema de cobertura de antenas
+
+---
+
+## Ejecución del programa
+
+Cada programa solicita datos por consola como:
+
+* Número de objetos o casas
+* Valores, pesos o posiciones
+* Capacidad o rango
+
+Luego muestra el resultado en pantalla.
+
+
 
